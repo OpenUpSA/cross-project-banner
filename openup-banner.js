@@ -1,5 +1,3 @@
-var openupBanner = '<div id="openup-banner" style="height: 50px; line-height: 50px; background-color: #ddd; font-size: 16px; color: #6d6e70; font-family: sans-serif; text-align: center;"> This is a project by <a href="https://openup.org.za"><img style="height: 50px;" src="https://openup.org.za/img/logo.svg"></a></div>'
+var openupBanner = '<div id="openup-banner" style="height: 70px; line-height: 70px; background-color: #ddd; font-size: 15px; color: #6d6e70; font-family: sans-serif; text-align: center; box-shadow: inset 0px 2px 2px 0px rgba(0,0,0,0.3); padding: 5px 0;"> This is a project by <a href="https://openup.org.za"><img style="height: 50px;" src="https://openup.org.za/img/logo.svg"></a></div>'
 
 document.body.insertAdjacentHTML('beforeend', openupBanner);
-
-
